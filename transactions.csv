@@ -1,0 +1,121 @@
+Date,Type,Category,Description,Amount,PaymentMethod
+2025-01-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-01-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-01-06,Expense,Groceries,Weekly grocery shopping,6200,Card
+2025-01-09,Expense,Transport,Metro and ride fares,2800,Cash
+2025-01-12,Expense,Utilities,Electricity and gas,4300,Bank Transfer
+2025-01-15,Expense,Food,Restaurant and coffee,3200,Card
+2025-01-18,Expense,Shopping,Clothing and accessories,5400,Card
+2025-01-22,Expense,Health,Pharmacy and checkup,1800,Cash
+2025-01-25,Income,Freelance,Design project payment,12000,Bank Transfer
+2025-01-27,Expense,Entertainment,Movie and outing,2200,Card
+2025-02-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-02-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-02-05,Expense,Groceries,Weekly grocery shopping,6800,Card
+2025-02-08,Expense,Transport,Metro and ride fares,3100,Cash
+2025-02-11,Expense,Utilities,Electricity and gas,3900,Bank Transfer
+2025-02-14,Expense,Food,Restaurant and coffee,4800,Card
+2025-02-17,Expense,Shopping,Online purchases,7200,Card
+2025-02-20,Expense,Education,Online course fee,3500,Bank Transfer
+2025-02-24,Income,Freelance,Content writing payment,9000,Bank Transfer
+2025-02-26,Expense,Entertainment,Concert tickets,2600,Card
+2025-03-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-03-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-03-06,Expense,Groceries,Weekly grocery shopping,7100,Card
+2025-03-09,Expense,Transport,Metro and ride fares,2600,Cash
+2025-03-12,Expense,Utilities,Electricity and gas,5100,Bank Transfer
+2025-03-15,Expense,Food,Restaurant and coffee,3900,Card
+2025-03-18,Expense,Shopping,Home essentials,4600,Card
+2025-03-21,Expense,Health,Pharmacy and checkup,2400,Cash
+2025-03-25,Income,Freelance,Website project payment,18000,Bank Transfer
+2025-03-27,Expense,Entertainment,Weekend outing,1900,Card
+2025-04-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-04-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-04-06,Expense,Groceries,Weekly grocery shopping,6500,Card
+2025-04-09,Expense,Transport,Metro and ride fares,2900,Cash
+2025-04-12,Expense,Utilities,Electricity and gas,4600,Bank Transfer
+2025-04-15,Expense,Food,Restaurant and coffee,3500,Card
+2025-04-18,Expense,Shopping,Clothing and accessories,6800,Card
+2025-04-21,Expense,Education,Course materials,2100,Bank Transfer
+2025-04-24,Income,Freelance,Editing project payment,14000,Bank Transfer
+2025-04-27,Expense,Entertainment,Movie and outing,2500,Card
+2025-05-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-05-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-05-05,Expense,Groceries,Weekly grocery shopping,7400,Card
+2025-05-08,Expense,Transport,Metro and ride fares,3200,Cash
+2025-05-11,Expense,Utilities,Electricity and gas,5500,Bank Transfer
+2025-05-14,Expense,Food,Restaurant and coffee,4300,Card
+2025-05-17,Expense,Shopping,Online purchases,5900,Card
+2025-05-20,Expense,Health,Pharmacy and checkup,1600,Cash
+2025-05-24,Income,Freelance,Graphic design payment,11000,Bank Transfer
+2025-05-26,Expense,Entertainment,Weekend outing,2800,Card
+2025-06-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-06-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-06-06,Expense,Groceries,Weekly grocery shopping,6900,Card
+2025-06-09,Expense,Transport,Metro and ride fares,2700,Cash
+2025-06-12,Expense,Utilities,Electricity and gas,6200,Bank Transfer
+2025-06-15,Expense,Food,Restaurant and coffee,5200,Card
+2025-06-18,Expense,Shopping,Clothing and accessories,8400,Card
+2025-06-21,Expense,Education,Online course fee,4200,Bank Transfer
+2025-06-24,Income,Freelance,Consulting payment,16000,Bank Transfer
+2025-06-27,Expense,Entertainment,Movie and outing,2300,Card
+2025-07-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-07-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-07-05,Expense,Groceries,Weekly grocery shopping,7800,Card
+2025-07-08,Expense,Transport,Metro and ride fares,3500,Cash
+2025-07-11,Expense,Utilities,Electricity and gas,6800,Bank Transfer
+2025-07-14,Expense,Food,Restaurant and coffee,4100,Card
+2025-07-17,Expense,Shopping,Online purchases,6300,Card
+2025-07-20,Expense,Health,Pharmacy and checkup,2200,Cash
+2025-07-24,Income,Freelance,Development project payment,22000,Bank Transfer
+2025-07-26,Expense,Entertainment,Weekend outing,3100,Card
+2025-08-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-08-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-08-06,Expense,Groceries,Weekly grocery shopping,7200,Card
+2025-08-09,Expense,Transport,Metro and ride fares,3000,Cash
+2025-08-12,Expense,Utilities,Electricity and gas,5900,Bank Transfer
+2025-08-15,Expense,Food,Restaurant and coffee,4600,Card
+2025-08-18,Expense,Shopping,Home essentials,5200,Card
+2025-08-21,Expense,Education,Course materials,2600,Bank Transfer
+2025-08-24,Income,Freelance,Writing project payment,13000,Bank Transfer
+2025-08-27,Expense,Entertainment,Movie and outing,2100,Card
+2025-09-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-09-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-09-05,Expense,Groceries,Weekly grocery shopping,8100,Card
+2025-09-08,Expense,Transport,Metro and ride fares,3300,Cash
+2025-09-11,Expense,Utilities,Electricity and gas,4900,Bank Transfer
+2025-09-14,Expense,Food,Restaurant and coffee,5700,Card
+2025-09-17,Expense,Shopping,Clothing and accessories,7500,Card
+2025-09-20,Expense,Health,Pharmacy and checkup,1900,Cash
+2025-09-24,Income,Freelance,Website maintenance payment,15000,Bank Transfer
+2025-09-26,Expense,Entertainment,Weekend outing,2600,Card
+2025-10-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-10-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-10-06,Expense,Groceries,Weekly grocery shopping,7600,Card
+2025-10-09,Expense,Transport,Metro and ride fares,2900,Cash
+2025-10-12,Expense,Utilities,Electricity and gas,4400,Bank Transfer
+2025-10-15,Expense,Food,Restaurant and coffee,3900,Card
+2025-10-18,Expense,Shopping,Online purchases,6700,Card
+2025-10-21,Expense,Education,Online course fee,3000,Bank Transfer
+2025-10-24,Income,Freelance,Design project payment,17000,Bank Transfer
+2025-10-27,Expense,Entertainment,Movie and outing,2400,Card
+2025-11-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-11-03,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-11-05,Expense,Groceries,Weekly grocery shopping,8300,Card
+2025-11-08,Expense,Transport,Metro and ride fares,3400,Cash
+2025-11-11,Expense,Utilities,Electricity and gas,5700,Bank Transfer
+2025-11-14,Expense,Food,Restaurant and coffee,4900,Card
+2025-11-17,Expense,Shopping,Clothing and accessories,6100,Card
+2025-11-20,Expense,Health,Pharmacy and checkup,2300,Cash
+2025-11-24,Income,Freelance,Consulting payment,12000,Bank Transfer
+2025-11-26,Expense,Entertainment,Weekend outing,2700,Card
+2025-12-01,Income,Salary,Monthly salary,85000,Bank Transfer
+2025-12-04,Expense,Rent,Apartment rent,22000,Bank Transfer
+2025-12-06,Expense,Groceries,Weekly grocery shopping,8900,Card
+2025-12-09,Expense,Transport,Metro and ride fares,3700,Cash
+2025-12-12,Expense,Utilities,Electricity and gas,7100,Bank Transfer
+2025-12-15,Expense,Food,Restaurant and coffee,6500,Card
+2025-12-18,Expense,Shopping,Holiday shopping,10200,Card
+2025-12-21,Expense,Education,Course materials,3500,Bank Transfer
+2025-12-24,Income,Freelance,Year-end project payment,25000,Bank Transfer
+2025-12-27,Expense,Entertainment,Holiday outing,4200,Card
